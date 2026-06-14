@@ -18,8 +18,8 @@ void dsp_controller_test(void)
     arm_pid_reset_f32(&pid);
     printf("PID reset done\r\n");
 
-    /* arm_sin_cos_f32 */
+    /* arm_sin_cos_f32: angle in degrees, not radians */
     float32_t sin_val, cos_val;
-    arm_sin_cos_f32(0.7853981634f, &sin_val, &cos_val);
-    printf("sin_cos(pi/4): sin=%.4f, cos=%.4f\r\n", sin_val, cos_val);
+    arm_sin_cos_f32(45.0f, &sin_val, &cos_val);
+    printf("sin_cos(45 deg): sin=%.4f, cos=%.4f\r\n", sin_val, cos_val);
 }
