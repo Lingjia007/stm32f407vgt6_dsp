@@ -1,0 +1,4 @@
+Load "stm32f407vgt6_dsp\\stm32f407vgt6_dsp.axf" 
+No ST-LINK detected
+Error: Flash Download failed  -  Target DLL has been cancelled
+Flash Load finished at 15:08:05
