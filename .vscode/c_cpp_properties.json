@@ -22,7 +22,8 @@
                 "Drivers/CMSIS/Device/ST/STM32F4xx/Include",
                 "Drivers/CMSIS/Include",
                 "Drivers/CMSIS/DSP/Include",
-                "Drivers/CMSIS/DSP/PrivateInclude"
+                "Drivers/CMSIS/DSP/PrivateInclude",
+                "DSP_Test"
             ],
             "defines": [
                 "USE_HAL_DRIVER",

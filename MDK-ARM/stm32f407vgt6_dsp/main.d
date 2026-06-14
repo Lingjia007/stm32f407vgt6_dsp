@@ -7,10 +7,10 @@ stm32f407vgt6_dsp/main.o: ..\Core\Src\main.c ..\Core\Inc\main.h \
   ..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h \
   ..\Drivers\CMSIS\Include\core_cm4.h \
   C:\Keil_v5\ARM\ARMCLANG\include\stdint.h \
-  D:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_version.h \
-  D:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_compiler.h \
-  D:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_armclang.h \
-  D:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\mpu_armv7.h \
+  d:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_version.h \
+  d:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_compiler.h \
+  d:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_armclang.h \
+  d:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\mpu_armv7.h \
   ..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
   C:\Keil_v5\ARM\ARMCLANG\include\stddef.h \
@@ -26,4 +26,31 @@ stm32f407vgt6_dsp/main.o: ..\Core\Src\main.c ..\Core\Inc\main.h \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ramfunc.h \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr.h \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr_ex.h \
-  ..\Core\Inc\gpio.h
+  ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_uart.h \
+  ..\Core\Inc\usart.h ..\Core\Inc\gpio.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\stdio.h ..\DSP_Test\dsp_test.h \
+  ..\Drivers\CMSIS\DSP\Include\arm_math.h \
+  ..\Drivers\CMSIS\DSP\Include\arm_math_types.h \
+  ..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\string.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\math.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\float.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\limits.h \
+  ..\Drivers\CMSIS\DSP\Include\arm_math_memory.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\none.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\utils.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\basic_math_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\interpolation_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\bayes_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\statistics_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\fast_math_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\matrix_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\complex_math_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\controller_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\support_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\distance_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\svm_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\svm_defines.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\transform_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\filtering_functions.h \
+  ..\Drivers\CMSIS\DSP\Include\dsp\quaternion_math_functions.h

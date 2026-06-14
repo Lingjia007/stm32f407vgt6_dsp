@@ -3,10 +3,10 @@ stm32f407vgt6_dsp/system_stm32f4xx.o: ..\Core\Src\system_stm32f4xx.c \
   ..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h \
   ..\Drivers\CMSIS\Include\core_cm4.h \
   C:\Keil_v5\ARM\ARMCLANG\include\stdint.h \
-  D:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_version.h \
-  D:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_compiler.h \
-  D:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_armclang.h \
-  D:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\mpu_armv7.h \
+  d:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_version.h \
+  d:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_compiler.h \
+  d:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\cmsis_armclang.h \
+  d:\edgedownload\stm32f407vgt6_dsp\Drivers\CMSIS\Include\mpu_armv7.h \
   ..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h \
   ..\Core\Inc\stm32f4xx_hal_conf.h \
@@ -25,4 +25,5 @@ stm32f407vgt6_dsp/system_stm32f4xx.o: ..\Core\Src\system_stm32f4xx.c \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ex.h \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ramfunc.h \
   ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr.h \
-  ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr_ex.h
+  ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr_ex.h \
+  ..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_uart.h
